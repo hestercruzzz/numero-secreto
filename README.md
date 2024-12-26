@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 
-<p>Projeto utilizado nos curos de lógica de programação da Alura.</p>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
 ## Tecnologias
 <li>JavaScript</li>
